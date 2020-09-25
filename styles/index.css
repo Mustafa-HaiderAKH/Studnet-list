@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.main {
+  padding: 10%;
+  border: 1px solid red;
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.ant-btn {
+  font-size: 20px;
+  line-height: 1.2;
+}
